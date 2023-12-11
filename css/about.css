@@ -1,0 +1,34 @@
+.header-about{
+    background-image: url(../images/bg-11-free-img.jpg);
+}
+.about .overlay , .classes .overlay , .parent .overlay , .reviews .overlay , .contact .overlay {
+    background-image: linear-gradient(180deg,#00cecb 0%,#fdbc4d 100% );
+
+}
+.classes , .about , .parent , .reviews , .contact{
+    background-image: url(../images/bg-03-free-img.png);
+}
+.header-classes {
+    background-image: url(../images/bg-04-free-img.jpg);
+}
+.classes , .parent , .reviews , .contact{
+    position:relative
+}
+.header-parent{
+    background-image: url(../images/bg-09-free-img.jpg);
+
+}
+.header-reviews{
+    background-image: url(../images/bg-08-free-img.jpg);
+}
+.header-contact{
+    background-image: url(../images/bg-07-free-img.jpg);
+}
+.accordion-item{
+    background-color: #26cfb0!important;
+}
+.accordion-button, .accordion-button:focus, .accordion-button:focus-visible {
+    background-color: #35CAAF!important;
+
+}
+
